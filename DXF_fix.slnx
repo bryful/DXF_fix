@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DXF_fix/DXF_fix.vcxproj" Id="db27b879-4071-439b-8acd-10e35f819c57" />
+</Solution>
